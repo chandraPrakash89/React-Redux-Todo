@@ -6,6 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+#########################################
+## Notes - Redux Use
+npm install @reduxjs/toolkit
+
+npm install react-redux
+**For React bindings**
+
+npx create-react-app my-app
+
+### npm install @mui/material @emotion/react @emotion/styled
+  Material UI used for responsive design
+
+###########################################
 ### `npm start`
 
 Runs the app in the development mode.\
